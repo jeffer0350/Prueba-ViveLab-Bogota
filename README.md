@@ -9,4 +9,6 @@ Acerca de mí se puede decir que soy un hombre orientado a resultados, me gusta 
 
 Acerca de mi perfil laboral, cuento con más de 6 años de experiencia en la industria TI de los cuales 5 años en el sector bancario haciendo uso de la ingeniería de software y la metodología de desarrollo en cascada; y 1 año en el sector de las telecomunicaciones liderando proyectos a través de la metodología ágil Scrum brindando soluciones altamente efectivas para los desafíos tecnológicos allí presentados. 
 
+Con conocimiento en la administración de la herramienta ALM para gestionar el ciclo de vida de un proyecto.
+
 Con competencias en desarrollo de equipo, toma de decisiones, iniciativa-autonomía y orientación a resultados.
